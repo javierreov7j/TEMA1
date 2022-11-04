@@ -1,0 +1,30 @@
+<listaJuegos>
+	<juego>
+		<title>The Ten Dragon</title>
+		<genero>RPG</genero>
+		<plataformas>
+			<plataforma>PC</plataforma>
+		</plataformas>
+	</juego>
+	<juego>
+		<title>Formula 1</title>
+		<genero>Carreras</genero>
+		<plataformas>
+			<plataforma>PC</plataforma>
+			<plataforma>PS5</plataforma>
+			<plataforma>PS4</plataforma>
+			<plataforma>XBOX</plataforma>
+		</plataformas>
+	</juego>
+	<juego>
+		<title>Dragon Ball</title>
+		<genero>RPG</genero>
+		<plataformas>
+			<plataforma>PC</plataforma>
+			<plataforma>PS%</plataforma>
+			<plataforma>PS4</plataforma>
+			<plataforma>XBOX</plataforma>
+		</plataformas>
+	</juego>
+
+</listaJuegos>

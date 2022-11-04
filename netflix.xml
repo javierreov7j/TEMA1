@@ -1,0 +1,29 @@
+<listaPeliculas>
+	<peliculas>
+		<titulo>Disomnia</titulo>
+        <director>Mark Raso</director>
+        <descripcion>Nos muestra tras un suceso global como seria un mundo donde nadie pudiese dormir mas</descripcion>
+        <duracion>96 min</duracion>
+        <fecha>2021</fecha>
+        <actores>Principal:Gina Rodriguez Secundario:Ariana Greenblatt</actores>
+		<generos>Thriller postapocaliptico</generos>		
+	</peliculas>
+    <peliculas>
+        <titulo>La vieja guardia</titulo>
+        <director>Gina Prince-Bythewood</director>
+        <descripcion>Un grupo de mercenarios inmortales liderado por una guerrera llamada Andy ha luchado por el mundo durante siglos</descripcion>
+        <duracion>125min</duracion>
+        <fecha>2020</fecha>
+        <actores>Principal:Charlize Theron Secundario:Kiki Lane</actores>
+		<generos>Fantastico Accion</generos>
+    </peliculas>
+    <peliculas>
+        <titulo>A ciegas</titulo>
+        <director>Susanne Bier</director>
+        <descripcion>Un lustro despues de que una presencia invisible lleve al suicidio a casi toda la sociedad, una superviviente y sus dos hijos buscan desesperadamente el modo de salvarse</descripcion>
+        <duracion>124min</duracion>
+        <fecha>2018</fecha>
+        <actores>Principal:Sandra Bullock Secundario:Trevante Rhodes</actores>
+		<generos>Thriller Terror Fantastico</generos>
+    </peliculas>
+</listaPeliculas>

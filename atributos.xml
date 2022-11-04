@@ -1,0 +1,23 @@
+<employee firstName="Javier" lastName="Rodriguez">
+</employee>
+
+	<adress street="Uria<" city="Oviedo">
+	</adress>
+</employee>
+
+
+<lista>
+	<objeto>
+		<name>Cafeastur</name>
+		<price>8,67€</price>
+	</objeto>
+	<objeto>
+		<name>Central Asturiana</name>
+		<price>7,54€</price>
+	</objeto>
+	<objeto>
+		<name>Gallina de oro</name>
+		<price>7,00€</price>
+	</objeto>
+	
+</lista>

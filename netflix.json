@@ -1,0 +1,50 @@
+{
+	"peliculas":[
+		{
+			"titulo":"Disomnia",
+			"director":"Mark Raso",
+			"descripcion":"Nos muestra tras un suceso global como seria un mundo donde nadie pudiese dormir mas",
+			"duracion":"96min",
+			"fecha":"2021",
+			"actores":{
+				"principal":"Gina Rodriguez",
+				"secunario":"Ariana Greenblatt"
+			},
+			"generos":"Thriller postapocaliptico"
+			
+		},
+		{
+			"titulo":"La vieja guardia",
+			"director":"Gina Prince-Bythewood",
+			"descripcion":"Un grupo de mercenarios inmortales liderado por una guerrera llamada Andy ha luchado por el mundo durante siglos",
+			"duracion":"125min",
+			"fecha":"2020",
+			"actores":{
+				"principal":"Charlize Theron",
+				"secunario":"Kiki Lane"
+			},
+			"generos":
+			["Fantastico",
+			"Accion"
+			]
+			
+		},
+		{
+			"titulo":"A ciegas",
+			"director":"Susanne Bier",
+			"descripcion":"Un lustro despues de que una presencia invisible lleve al suicidio a casi toda la sociedad, una superviviente y sus dos hijos buscan desesperadamente el modo de salvarse",
+			"duracion":"124min",
+			"fecha":"2018",
+			"actores":{
+				"principal":"Sandra Bullock",
+				"secunario":"Trevante Rhodes"
+			},
+			"generos":
+			["Thriller",
+			"Terror",
+			"Fantastico"
+			]
+			
+		}
+	]
+}

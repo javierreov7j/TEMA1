@@ -1,0 +1,64 @@
+{
+	"firstName":"Carl",
+	"lastName":"Johnson"
+}
+
+{
+	"juegos":[
+		{
+			"name":"Mario Kart",
+			"año":"2021",
+			"estudio":{
+				"name":"Nintendo",
+				"ubicacion":"Japon"
+			},
+			"generos":
+			["carreras",
+			"familiar"
+			],
+			"plataformas":[
+			"Switch",
+			"WiiU",
+			"DS"
+			]
+		}
+	]
+}	
+
+{
+	"juegos":[
+		{
+			"name":"Mario Kart",
+			"año":"2021",
+			"estudio":{
+				"name":"Nintendo",
+				"ubicacion":"Japon"
+			},
+			"generos":
+			["carreras",
+			"familiar"
+			],
+			"plataformas":[
+			"Switch",
+			"WiiU",
+			"DS"
+			]
+		},
+		{
+			"name":"Assasins Creed",
+			"año":"2021",
+			"estudio":{
+				"name":"Ubisoft",
+				"ubicacion":"Francia"
+			},
+			"generos":[
+			"Aventura"
+			],
+			"plataformas":[
+			"PS4",
+			"PS5",
+			"XBOX"
+			]
+		}
+	]
+}

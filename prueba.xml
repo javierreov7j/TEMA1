@@ -1,0 +1,25 @@
+<employee>
+	<firstName>Javier</firstName>
+	<lastName>Rodriguez</lastName>
+	<adress>
+		<street>Uria</street>
+		<city>Oviedo</city>
+	</adress>
+</employee>
+
+
+<lista>
+	<objeto>
+		<name>Cafeastur</name>
+		<price>8,67€</price>
+	</objeto>
+	<objeto>
+		<name>Central Asturiana</name>
+		<price>7,54€</price>
+	</objeto>
+	<objeto>
+		<name>Gallina de oro</name>
+		<price>7,00€</price>
+	</objeto>
+	
+</lista>

@@ -1,0 +1,8 @@
+<lista>
+	<employee firstname="Juan" lastname="Martinez">
+		<adress street="Gran Via" city="Madrid"></address>
+	</employee>
+	<employee firstname="Andrea" lastname="Rodriguez">
+		<adress street="Uria" city="Oviedo"></address>
+	</employee>
+</lista>
